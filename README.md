@@ -34,7 +34,7 @@ THEN I find a concise, descriptive title
 
 ## Approach to Solving
 
-Based upon comments during class, I did not modify the css file, although it was very tempting to since class names were the same as element names and I could have probably been a bit more efficient in the HTML and making it a bit more intuitive. If I could have modified teh css file, I would have changed definitions to element definitions.
+Based upon comments during class, I was reluctant to modifiy the css file, abut I went ahead and did it anyway to support more readable html without having to put classes for each element> I think it results in a bit more efficient in the HTML and making it a bit more intuitive.
 
 ## Review
 
